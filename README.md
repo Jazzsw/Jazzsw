@@ -1,6 +1,6 @@
 ## Work in progress...
 
-![Static Badge](https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=%23FFFFFF&labelColor=%23663399&color=%23663399)
 ![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&labelColor=%23F7DF1E&color=%23F7DF1E)
 
