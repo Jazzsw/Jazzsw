@@ -9,6 +9,17 @@
 ![Static Badge](https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&labelColor=%235FA04E&color=%235FA04E)
 ![Static Badge](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=%23FFFFFF&labelColor=%23CB3837&color=%23CB3837)
 
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
+
+![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23FFFFFF&labelColor=%23F05032&color=%23F05032)
+![Static Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23181717&color=%23181717)
+![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%23FFFFFF&labelColor=%232496ED&color=%232496ED)
+![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=%23FFFFFF&labelColor=%23F24E1E&color=%23F24E1E)
+![Static Badge](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=%23FFFFFF&labelColor=%230052CC&color=%230052CC)
+
+
+
 
 
 
