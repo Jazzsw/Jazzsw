@@ -11,6 +11,7 @@
 
 ![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23FFFFFF&labelColor=%23F05032&color=%23F05032)
 ![Static Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23181717&color=%23181717)
