@@ -1,17 +1,24 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 # Hi! I'm Jazz Stocker-Witterick
 
 I'm a 3rd year Software Engineering major at UofG. I'm also minoring in Culture and Technology Studies (CTS), which brings a critical lens to the interplay between human culture and the realm of technology, both hardware and software.
 
 I have a particular interest in UI/UX design, front-end development, as well as game theory and design.
 
-
-
 ## My Skills
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 | Web Dev | Languages | Dev Tools | Design Tools |
 | ------- | --------- | --------- | ------------ |
 | [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,c,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
 
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Jazzsw&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23333&color=%23333)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23333&color=%23333)
