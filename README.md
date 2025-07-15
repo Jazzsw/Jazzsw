@@ -1,15 +1,19 @@
 ## Work in progress...
 
 Web Dev
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase)](https://skillicons.dev)
 
 Other Languages
+
 [![My Skills](https://skillicons.dev/icons?i=c,java,python)](https://skillicons.dev)
 
 Dev Tools
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github)](https://skillicons.dev)
 
 Design Tools
+
 [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
