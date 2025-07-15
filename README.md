@@ -13,24 +13,24 @@ I have a particular interest in UI/UX design, front-end development, as well as 
 | [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,c,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
 
 
-![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
-![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=%23FFFFFF&labelColor=%23663399&color=%23663399)
-![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&labelColor=%23F7DF1E&color=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=%23663399&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=%23333&color=%23333)
 
-![Static Badge](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=%23FFFFFF&labelColor=%2306B6D4&color=%2306B6D4)
-![Static Badge](https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=electron&logoColor=%23FFFFFF&labelColor=%2347848F&color=%2347848F)
-![Static Badge](https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&labelColor=%235FA04E&color=%235FA04E)
-![Static Badge](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=%23FFFFFF&labelColor=%23CB3837&color=%23CB3837)
+![Static Badge](https://img.shields.io/badge/Tailwind-white?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/Electron-white?style=for-the-badge&logo=electron&logoColor=%2347848F&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/NodeJS-white?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/NPM-white?style=for-the-badge&logo=npm&logoColor=%23CB3837&labelColor=%23333&color=%23333)
 
-![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
-![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%23FFFFFF&labelColor=%233776AB&color=%233776AB)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Static Badge](https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=%23333&color=%23333)
+![Java](https://img.shields.io/badge/java-white?style=for-the-badge&logo=openjdk&logoColor=23F05032&labelColor=%23333&color=%23333)
 
-![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23FFFFFF&labelColor=%23F05032&color=%23F05032)
-![Static Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23FFFFFF&labelColor=%23181717&color=%23181717)
-![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%23FFFFFF&labelColor=%232496ED&color=%232496ED)
-![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=%23FFFFFF&labelColor=%23F24E1E&color=%23F24E1E)
-![Static Badge](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=%23FFFFFF&labelColor=%230052CC&color=%230052CC)
+![Static Badge](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=%23333&color=%23333)
+![Static Badge](https://img.shields.io/badge/Trello-white?style=for-the-badge&logo=trello&logoColor=%230052CC&labelColor=%23333&color=%23333)
 
 
 
