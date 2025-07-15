@@ -1,6 +1,6 @@
 ## Work in progress...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,java,nodejs,docker,electron,figma,vscode,firebase,git,github,blender)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,c,java,python,nodejs,docker,electron,figma,vscode,firebase,git,github,blender)](https://skillicons.dev)
 
 ![Static Badge](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
 ![Static Badge](https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=%23FFFFFF&labelColor=%23663399&color=%23663399)
