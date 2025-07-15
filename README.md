@@ -1,5 +1,11 @@
 ## Work in progress...
 
+| Web Dev | Languages | Dev Tools | Design Tools |
+| ------- | --------- | --------- | ------------ |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,c,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
+
+
+
 Web Dev
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,firebase)](https://skillicons.dev)
