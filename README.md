@@ -1,3 +1,11 @@
+# Hi! I'm Jazz Stocker-Witterick
+
+I'm a 3rd year Software Engineering major at UofG. I'm also minoring in Culture and Technology Studies (CTS) which brings a critical lens to the interplay between human culture and the realm of technology, both hardware and software.
+
+I have a particular interest in UI/UX design, front-end development, and game theory and design.
+
+
+
 ## Work in progress...
 
 | Web Dev | Languages | Dev Tools | Design Tools |
