@@ -6,7 +6,7 @@ I have a particular interest in UI/UX design, front-end development, as well as 
 
 
 
-## Work in progress...
+## My Skills
 
 | Web Dev | Languages | Dev Tools | Design Tools |
 | ------- | --------- | --------- | ------------ |
