@@ -8,6 +8,7 @@ I have a particular interest in UI/UX design, front-end development, as well as 
 
 ## My Skills
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 | Web Dev | Languages | Dev Tools | Design Tools |
 | ------- | --------- | --------- | ------------ |
 | [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,c,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
