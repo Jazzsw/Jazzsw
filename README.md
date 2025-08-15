@@ -11,7 +11,7 @@ I have a particular interest in UI/UX design, front-end development, as well as 
 
 | Web Dev | Languages | Dev Tools | Design Tools |
 | ------- | --------- | --------- | ------------ |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase,next)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,c,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
+| [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,firebase,next)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,c,java,python)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=nodejs,docker,electron,vscode,git,github,npm)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=figma,blender)](https://skillicons.dev)
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
